@@ -50,4 +50,11 @@ arr23 = array('i', [])
 n = int(input("Enter a Number"))
 
 for i in range(0,n):
-    arr.append
+    arr.append(int(input('Enter next input')))
+
+for x in arr:
+    print(x, end=" ")
+
+i = arr.index(0)
+
+print(i)
