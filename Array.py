@@ -36,3 +36,18 @@ for i in range(0, len(copyArray )):
 
 copyArray.pop(3) # Index
 copyArray.remove(3) # Value
+
+
+# abc = val[start index: end index]
+
+abc = val[2:5]
+
+abc = val[::-1] #reverse
+
+
+arr23 = array('i', [])
+
+n = int(input("Enter a Number"))
+
+for i in range(0,n):
+    arr.append
